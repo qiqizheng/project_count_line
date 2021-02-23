@@ -15,9 +15,7 @@
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  `$url = "D:/work/appsoso/vendor/laravel/framework/src/Illuminate/Database/";` 最后一定用“/”结尾。
 
 #### 参与贡献
 
